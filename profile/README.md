@@ -24,7 +24,7 @@ Fomentamos un ambiente inclusivo y respetuoso para todos. Consulta nuestro [Cód
 ## 🌐 Contacto y Comunidad
 
 🔗 **Website:** [slicesoft.dev](https://slicesoft.dev)  
-🐙 **GitHub:** [github.com/slicesoft](https://github.com/slicesoft)  
+🐙 **GitHub:** [github.com/slice-soft](https://github.com/slice-soft)  
 ✉️ **Correo:** contact@slicesoft.dev
 
 ---
