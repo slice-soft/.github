@@ -15,19 +15,6 @@ Bienvenido al repositorio `.github` de **SliceSoft**, donde centralizamos la doc
 
 Nuestro objetivo es ofrecer soluciones altamente escalables y personalizables, optimizando la experiencia de desarrollo para nuestros clientes y partners.
 
----
-
-## 📌 Contenido del Repositorio
-
-Este repositorio contiene archivos y configuraciones globales utilizadas en la organización, incluyendo:
-
-- **Plantillas de Issues y Pull Requests**: Para mantener estándares en la gestión de proyectos.
-- **Guías de Contribución**: Reglas y mejores prácticas para colaborar en nuestros proyectos.
-- **Código de Conducta**: Normas para fomentar un ambiente de respeto y colaboración.
-- **Acciones de GitHub**: Workflows predefinidos para mejorar la eficiencia del desarrollo.
-
----
-
 ## ⚖️ Código de Conducta
 
 Fomentamos un ambiente inclusivo y respetuoso para todos. Consulta nuestro [Código de Conducta](CODE_OF_CONDUCT.md) para más detalles.
