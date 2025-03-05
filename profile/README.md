@@ -28,35 +28,6 @@ Este repositorio contiene archivos y configuraciones globales utilizadas en la o
 
 ---
 
-## 🏗 Arquitectura de la Plataforma
-
-SliceSoft adopta un enfoque basado en **microservicios**, organizando nuestras aplicaciones en diferentes dominios. A continuación, un resumen de nuestros servicios clave:
-
-| Microservicio   | Tecnología | Función |
-|----------------|------------|----------------|
-| **Auth**  | NestJS | Manejo de autenticación y roles |
-| **Users**  | Go + Fiber | Gestión de perfiles de usuario |
-| **Orders**  | Go + Fiber | Creación y seguimiento de órdenes |
-| **Payments**  | NestJS | Integración con pasarelas de pago |
-| **Subscriptions**  | Go + Fiber | Administración de suscripciones |
-| **Workshops**  | Go + Fiber | Coordinación de talleres aliados |
-| **Notifications**  | NestJS + Nodemailer | Envío de correos y SMS |
-| **Reports/Analytics**  | Python + FastAPI | Generación de reportes y métricas |
-
-Cada microservicio es independiente y se comunica a través de **RabbitMQ** en un modelo **event-driven**. Para exponer APIs a clientes, utilizamos un **API Gateway** basado en NestJS o Kong.
-
----
-
-## 🛠 Contribuyendo
-
-Si deseas contribuir a nuestros proyectos, revisa nuestra [Guía de Contribución](CONTRIBUTING.md). Algunas formas de ayudar incluyen:
-
-- Reportar bugs o sugerencias en **Issues**.
-- Contribuir con código en nuestros repositorios.
-- Proponer mejoras en nuestras **documentaciones**.
-
----
-
 ## ⚖️ Código de Conducta
 
 Fomentamos un ambiente inclusivo y respetuoso para todos. Consulta nuestro [Código de Conducta](CODE_OF_CONDUCT.md) para más detalles.
