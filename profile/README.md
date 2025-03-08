@@ -1,4 +1,4 @@
-# 🦔 SliceSoft - Desarrollo Modular y Ágil
+# SliceSoft - Desarrollo Modular y Ágil
 
 Bienvenido al repositorio `.github` de **SliceSoft**, donde centralizamos la documentación, plantillas y procesos para la organización. Aquí encontrarás información sobre nuestra visión, contribuciones, código de conducta y otros recursos clave.
 
