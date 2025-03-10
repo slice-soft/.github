@@ -6,7 +6,18 @@ Bienvenido al repositorio `.github` de **SliceSoft**, donde centralizamos la doc
 
 ## 🚀 ¿Qué es SliceSoft?
 
-**SliceSoft** es una fábrica de software enfocada en el desarrollo **ágil y modular** de aplicaciones, utilizando **componentes reutilizables** como módulos de Lego. Nos especializamos en arquitecturas modernas como **microservicios, microfrontends y web components**, empleando tecnologías como:
+En **SliceSoft**, creamos soluciones de software diseñadas para la escalabilidad, la automatización y la modularidad. Nuestra filosofía se basa en construir sistemas flexibles y reutilizables, optimizando cada fase del desarrollo para ofrecer **productos de alto rendimiento y adaptabilidad**.
+
+Creemos en un enfoque **componible**, donde cada pieza de software es un bloque reutilizable que se integra sin fricciones en cualquier ecosistema tecnológico. Esto nos permite desarrollar soluciones robustas y personalizadas para nuestros clientes, acelerando la innovación y reduciendo costos operativos.
+
+## 🚀 Nuestra Propuesta de Valor
+
+✔ **Desarrollo Modular:** Creación de componentes reutilizables para mayor eficiencia y escalabilidad.  
+✔ **Automatización Inteligente:** Aplicación de CI/CD, IaC y DevOps para despliegues sin fricción.  
+✔ **Tecnología de Vanguardia:** Uso de microservicios, microfrontends y arquitecturas cloud-native.  
+✔ **Optimización Continua:** Mejores prácticas en código, rendimiento y seguridad.  
+
+📢 **Construimos, ensamblamos, innovamos.**
 
 - **Backend:** Golang (Fiber), NestJS (Node.js), FastAPI (Python).
 - **Frontend:** Angular, React, Stencil.
